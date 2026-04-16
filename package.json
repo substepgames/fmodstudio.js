@@ -1,0 +1,8 @@
+{
+    "name": "fmodstudio",
+    "version": "2.03.13",
+    "type": "module",
+    "files": [
+        "**/*"
+    ]
+}
